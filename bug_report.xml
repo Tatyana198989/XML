@@ -1,1 +1,12 @@
-
+<Bug_report>
+  <ID>BR-1</ID>
+   <Summary>There is no sorting of drinks by name</Summary>
+   <Project>Application Drinkables</Project>
+   <Environment>Xiaomi A2 Lite</Environment>
+   <Severity>Major</Severity>
+   <Priority>Medium</Priority>
+   <Status>New</Status>
+   <Steps_to_reproduce>Launch the application</Steps_to_reproduce>
+   <Actual_results>There is no sorting of drinks by name</Actual_results>
+   <Expected_results>Ability to sort drinks by name</Expected_results>
+</Bug_report>
